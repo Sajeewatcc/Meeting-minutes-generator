@@ -29,7 +29,7 @@ An AI-powered tool to transcribe audio recordings of meetings and generate struc
 
 ## Example Output
 
-```markdown
+
 **Minutes of Denver City Council**  
 **Date:** Oct 9, 2023  
 **Attendees:** Councilman Lopez, Ortega, Kinnech, etc.  
